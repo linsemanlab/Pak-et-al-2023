@@ -1,7 +1,7 @@
 # Pak-et-al-2023
 This repository contains source code and data files for the following paper: "Non-canonical Metabolic and Molecular Effects of Calorie Restriction Are Revealed by Varying Temporal Conditions". 
 
-The folder "data" contains all the data required to recreate each figure for the metabolomics/proteomics data. 
+The folder "data" contains all the data required to recreate the volcano plots for the metabolomics/proteomics data. 
 
 R scripts for cleaning/normalizing the datasets, analyzing the data, and creating figures are included in the repository:
 
